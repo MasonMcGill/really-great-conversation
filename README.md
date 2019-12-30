@@ -1,2 +1,7 @@
-# really-great-conversation
-Just a fantastic conversation. Clever, meaningful, personal. Really just the best
+# To-do
+
+- [ ] Start the conversation.
+- [ ] Code of conduct?
+- [ ] Kubernates integration
+- [ ] Property-based testing
+- [ ] Rewrite in Rust.
